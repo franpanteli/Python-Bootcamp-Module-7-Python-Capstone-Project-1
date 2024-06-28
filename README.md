@@ -1,7 +1,7 @@
 # Module-7-Python-Capstone-Project-1
 
 ### Repository Overview
-This repository contains a library of my notes and Jupyter notebooks for the seventh module of a Python 'bootcamp.' This was an in-depth Udemy course with a focus on foundational Python concepts and projects. This repository contains my work for the first capstone project in the course.
+This repository contains a library of my notes and Jupyter notebooks for the seventh module of a Python 'bootcamp.' This was an in-depth Udemy course with a focus on foundational Python concepts and projects. This repository contains my work for the first capstone project in this course.
 
 ### Course Details
 - **Course URL:** [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=ST18MT62524)
